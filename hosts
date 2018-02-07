@@ -1,0 +1,2 @@
+172.19.0.2 ansible_ssh_user=root ansible_phyton_interpreter=/usr/bin/phyton3
+
